@@ -18,7 +18,7 @@ Welcome to the **YOLOv8 Object Detection Project**! This project uses the powerf
 Here’s an example of the model in action:
 
 ### Input Image
-![Input Image](buddy.png)
+![Input Image](buddy.jpg)
 
 ### Output Image
 ![Output Image](output.png)
