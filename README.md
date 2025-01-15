@@ -28,4 +28,4 @@ Here’s an example of the model in action:
 
 **Aleena Treesa Leejoy**
 
-- GitHub: [your-username](https://github.com/Nothing-atl)
+- GitHub: [Nothing-atl](https://github.com/Nothing-atl)
