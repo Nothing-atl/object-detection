@@ -1,7 +1,8 @@
-YOLOv8 Object Detection Project
+#YOLOv8 Object Detection Project
 
 Welcome to the YOLOv8 Object Detection project! This repository contains code and models to detect objects in images using the YOLOv8 framework. The project is designed to be modular, easy to use, and suitable for beginners and advanced users alike.
-🚀 Features
+
+#🚀 Features
 
     YOLOv8 Integration: Leverages the powerful YOLOv8 model for object detection.
     Custom Model Support: Easily use your own trained model (yolo11n.pt) or pretrained models.
