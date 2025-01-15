@@ -1,12 +1,24 @@
-#YOLOv8 Object Detection Project
+# YOLOv8 Object Detection Project
 
-Welcome to the YOLOv8 Object Detection project! This repository contains code and models to detect objects in images using the YOLOv8 framework. The project is designed to be modular, easy to use, and suitable for beginners and advanced users alike.
+Welcome to the **YOLOv8 Object Detection Project**! This project uses the powerful YOLOv8 framework for detecting objects in images with high accuracy and efficiency.
 
-#🚀 Features
+---
 
-    YOLOv8 Integration: Leverages the powerful YOLOv8 model for object detection.
-    Custom Model Support: Easily use your own trained model (yolo11n.pt) or pretrained models.
-    Visualization: Draw bounding boxes and labels on images with confidence scores.
-    Customizable Thresholds: Set confidence thresholds for precise control over detections.
-    Matplotlib and OpenCV Support: Display and save output images with annotated detections.
+## 🚀 Features
 
+- **Easy Integration**: Plug-and-play object detection using YOLOv8.
+- **Custom Models**: Support for your own trained YOLOv8 models (`yolo11n.pt`).
+- **Bounding Box Visualization**: Displays detected objects with labels and confidence scores.
+- **Customizable Confidence Threshold**: Control detection precision with configurable thresholds.
+- **Supports OpenCV and Matplotlib**: Easy visualization and image manipulation.
+
+---
+## 📊 Results
+
+Here’s an example of the model in action:
+
+### Input Image
+![Input Image](buddy.png)
+
+### Output Image
+![Output Image](output.png)
