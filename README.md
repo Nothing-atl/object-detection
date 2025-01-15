@@ -22,3 +22,10 @@ Here’s an example of the model in action:
 
 ### Output Image
 ![Output Image](output.png)
+
+---
+## 🧑‍💻 Author
+
+**Aleena Treesa Leejoy**
+
+- GitHub: [your-username](https://github.com/Nothing-atl)
