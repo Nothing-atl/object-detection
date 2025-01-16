@@ -24,10 +24,10 @@ Here’s an example of the model in action:
 ![Output Image](output.png)
 
 ### Input Vedio
-![Input Vedio](street.mp4)
+![Input Vedio](street.gif)
 
 ### Output Vedio
-![Output Vedio](out_ved.mp4)
+![Output Vedio](out_ved.gif)
 
 ---
 ## 🧑‍💻 Author
