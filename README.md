@@ -23,6 +23,12 @@ Here’s an example of the model in action:
 ### Output Image
 ![Output Image](output.png)
 
+### Input Vedio
+![Input Vedio](street.mp4)
+
+### Output Vedio
+![Output Vedio](out_ved.mp4)
+
 ---
 ## 🧑‍💻 Author
 
