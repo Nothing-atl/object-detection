@@ -1,6 +1,6 @@
 # YOLOv8 Object Detection Project
 
-Welcome to the **YOLOv8 Object Detection Project**! This project uses the powerful YOLOv8 framework for detecting objects in images with high accuracy and efficiency.
+Welcome to the **YOLOv8 Object Detection Project**! This project uses the powerful YOLOv8 framework for detecting objects in images and vedios with high accuracy and efficiency.
 
 ---
 
